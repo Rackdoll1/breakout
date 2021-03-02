@@ -23,10 +23,15 @@
 
     Credit for graphics (amazing work!):
     https://opengameart.org/users/buch
+	
+	Background:
+    Author: PixelChoice | Credit: Getty Images/iStockphoto
 
     Credit for music (great loop):
     http://freesound.org/people/joshuaempyre/sounds/251461/
     http://www.soundcloud.com/empyreanma
+
+    Music from Zapsplat.com
 ]]--
 
 require 'src/Dependencies'
